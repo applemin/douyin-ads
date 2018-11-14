@@ -15,5 +15,6 @@ python ./douyin.ad.py
 + 代码内签名依赖的算法服务，最多可调用300次，过后失效。请联系作者。
 
 ### 效果
+[广告实例](https://www.iesdouyin.com/share/video/6616234046789782797/?region=CN&mid=6616234052879911694&u_code=g935miig&titleType=title)
 
 ![抖音广告数据](./preview.png)
